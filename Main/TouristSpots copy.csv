@@ -1,0 +1,136 @@
+States,places,rating,price,duration
+Andhra Pradesh, Tirupati,10,4000,5
+Andhra Pradesh, Vishakhapatnam,6,5000,4
+Andhra Pradesh, Araku Valley,2,8000,4
+Andhra Pradesh, Konaseema,8,9000,4
+Andhra Pradesh, Kurnool,6,6000,5
+Arunachal Pradesh, Tawang,10,10000,4
+Arunachal Pradesh, Ziro Valley,6,3000,1
+Arunachal Pradesh, Itanagar,10,4000,3
+Arunachal Pradesh, Bomdila,7,3000,2
+Arunachal Pradesh, Namdapha National Park,5,5000,4
+Assam, Kaziranga National Park,8,4000,4
+Assam, Guwahati,8,10000,2
+Assam, Majuli Island,4,3000,3
+Assam, Manas National Park,7,9000,5
+Assam, Sivasagar,5,9000,4
+Bihar, Bodh Gaya,9,9000,1
+Bihar, Nalanda,8,3000,2
+Bihar, Rajgir,4,10000,2
+Bihar, Patna,3,7000,2
+Bihar, Vaishali,8,8000,4
+Chhattisgarh, Chitrakoot Falls,3,9000,2
+Chhattisgarh, Bastar,4,6000,3
+Chhattisgarh, Sirpur,8,7000,5
+Chhattisgarh, Kanker,3,10000,1
+Chhattisgarh, Jagdalpur,7,7000,1
+Goa, Panaji,6,5000,2
+Goa, Calangute Beach,2,7000,2
+Goa, Baga Beach,7,10000,3
+Goa, Anjuna Beach,6,8000,2
+Goa, Dudhsagar Falls,2,8000,2
+Gujarat, Somnath,8,8000,5
+Gujarat, Dwarka,9,4000,5
+Gujarat, Gir National Park,4,10000,2
+Gujarat, Sabarmati Ashram,9,5000,1
+Gujarat, Rann of Kutch,3,4000,1
+Haryana, Kurukshetra,6,9000,1
+Haryana, Faridabad,9,5000,1
+Haryana, Pinjore Gardens,3,6000,2
+Haryana, Sultanpur Bird Sanctuary,8,5000,5
+Himachal Pradesh, Shimla,9,3000,4
+Himachal Pradesh, Manali,5,9000,2
+Himachal Pradesh, Dharamshala,9,10000,5
+Himachal Pradesh, Dalhousie,4,6000,3
+Himachal Pradesh, Kasauli,10,3000,1
+Jharkhand, Ranchi,4,10000,3
+Jharkhand, Hazaribagh,1,5000,2
+Jharkhand, Deoghar,2,3000,4
+Jharkhand, Betla National Park,1,7000,5
+Jharkhand, Jamshedpur,6,7000,3
+Karnataka, Bangalore,8,3000,3
+Karnataka, Mysore,8,7000,2
+Karnataka, Hampi,9,10000,3
+Karnataka, Coorg,4,8000,4
+Karnataka, Gokarna,2,9000,1
+Kerala, Munnar,5,6000,5
+Kerala, Alleppey,8,6000,1
+Kerala, Kochi,8,3000,5
+Kerala, Kovalam,3,7000,3
+Kerala, Thekkady,4,4000,4
+Madhya Pradesh, Khajuraho,2,6000,3
+Madhya Pradesh, Bhopal,1,8000,5
+Madhya Pradesh, Sanchi,4,6000,5
+Madhya Pradesh, Gwalior,1,7000,5
+Madhya Pradesh, Indore,2,4000,1
+Maharashtra, Mumbai,10,8000,3
+Maharashtra, Lonavala,7,8000,4
+Maharashtra, Mahabaleshwar,1,4000,3
+Maharashtra, Ajanta and Ellora Caves,3,10000,1
+Maharashtra, Shirdi,9,7000,4
+Manipur, Imphal,2,9000,1
+Manipur, Ukhrul,7,6000,3
+Manipur, Moreh,10,3000,1
+Manipur, Loktak Lake,5,4000,2
+Meghalaya, Shillong,10,7000,1
+Meghalaya, Cherrapunji,5,9000,4
+Meghalaya, Mawlynnong,7,8000,1
+Meghalaya, Umiam Lake,8,7000,5
+Meghalaya, Dawki,5,9000,4
+Mizoram, Aizawl,10,9000,4
+Mizoram, Champhai,7,5000,5
+Mizoram, Lunglei,3,7000,2
+Mizoram, Saiha,2,4000,3
+Nagaland, Kohima,9,10000,5
+Nagaland, Dimapur,5,9000,5
+Nagaland, Mokokchung,10,9000,3
+Nagaland, Dzukou Valley,10,5000,1
+Odisha, Puri,1,4000,1
+Odisha, Bhubaneswar,8,5000,1
+Odisha, Konark,2,10000,3
+Odisha, Chilika Lake,10,3000,3
+Odisha, Cuttack,3,5000,1
+Punjab, Amritsar,4,8000,2
+Punjab, Chandigarh,6,9000,5
+Punjab, Patiala,9,9000,1
+Punjab, Ludhiana,7,7000,4
+Rajasthan, Jaipur,8,10000,3
+Rajasthan, Udaipur,4,9000,5
+Rajasthan, Jodhpur,9,5000,4
+Rajasthan, Jaisalmer,7,8000,4
+Rajasthan, Pushkar,4,5000,5
+Sikkim, Gangtok,5,3000,4
+Sikkim, Pelling,9,4000,3
+Sikkim, Yuksom,8,3000,4
+Sikkim, Lachung,5,8000,1
+Sikkim, Ravangla,7,6000,4
+Tamil Nadu, Chennai,6,4000,4
+Tamil Nadu, Mahabalipuram,4,8000,5
+Tamil Nadu, Kanyakumari,5,10000,1
+Tamil Nadu, Ooty,2,7000,1
+Tamil Nadu, Madurai,5,7000,1
+Telangana, Hyderabad,3,4000,5
+Telangana, Warangal,8,4000,4
+Telangana, Bhadrachalam,5,7000,2
+Telangana, Nagarjunasagar,2,5000,1
+Telangana, Khammam,10,7000,5
+Tripura, Agartala,1,5000,4
+Tripura, Udaipur,7,9000,2
+Tripura, Neermahal Palace,9,5000,2
+Tripura, Sepahijala Wildlife Sanctuary,2,10000,1
+Uttar Pradesh, Agra,1,9000,3
+Uttar Pradesh, Varanasi,5,3000,3
+Uttar Pradesh, Lucknow,5,8000,2
+Uttar Pradesh, Allahabad,8,8000,5
+Uttar Pradesh, Mathura,6,4000,5
+Uttarakhand, Dehradun,1,6000,3
+Uttarakhand, Haridwar,7,8000,3
+Uttarakhand, Rishikesh,10,9000,3
+Uttarakhand, Mussoorie,5,3000,5
+Uttarakhand, Nainital,7,4000,1
+West Bengal, Kolkata,7,4000,3
+West Bengal, Darjeeling,3,10000,5
+West Bengal, Sundarbans National Park,10,7000,3
+West Bengal, Digha Beach,4,4000,1
+West Bengal, Murshidabad,6,9000,5
+,,,,
